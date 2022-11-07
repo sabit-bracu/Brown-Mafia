@@ -1,0 +1,573 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: CocoBasic - Cardea Elementor Widgets\n"
+"POT-Creation-Date: 2021-01-31 14:13+0100\n"
+"PO-Revision-Date: 2021-01-31 14:13+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Author of the plugin/theme
+#: index.php:67
+msgid "CocoBasic"
+msgstr ""
+
+#: widgets/contactform/index.php:20
+msgid "Contact Form"
+msgstr ""
+
+#: widgets/contactform/index.php:35 widgets/imageslider/index.php:35
+#: widgets/imageslider/index.php:85 widgets/milestone/index.php:35
+#: widgets/portfolio/index.php:35 widgets/service/index.php:35
+#: widgets/skill/index.php:35 widgets/team/index.php:35
+#: widgets/testimonial/index.php:35 widgets/testimonial/index.php:70
+#: widgets/testimonial/index.php:73 widgets/testimonial/index.php:103
+#: widgets/timeline/index.php:35 widgets/verticalskill/index.php:35
+#: widgets/video-pop/index.php:35
+msgid "Content"
+msgstr ""
+
+#: widgets/contactform/index.php:41
+msgid "Enter Contact Form 7 shortcode"
+msgstr ""
+
+#: widgets/contactform/index.php:51 widgets/imageslider/index.php:141
+#: widgets/milestone/index.php:77 widgets/portfolio/index.php:114
+#: widgets/service/index.php:81 widgets/skill/index.php:78
+#: widgets/team/index.php:59 widgets/testimonial/index.php:160
+#: widgets/timeline/index.php:77 widgets/verticalskill/index.php:78
+#: widgets/video-pop/index.php:82
+msgid "General"
+msgstr ""
+
+#: widgets/contactform/index.php:58
+msgid "Global Color"
+msgstr ""
+
+#: widgets/contactform/index.php:78
+msgid "Global Border Width"
+msgstr ""
+
+#: widgets/contactform/index.php:105 widgets/verticalskill/index.php:141
+msgid "Button Border Radius"
+msgstr ""
+
+#: widgets/imageslider/index.php:20
+msgid "Image Slider"
+msgstr ""
+
+#: widgets/imageslider/index.php:43 widgets/imageslider/index.php:46
+#: widgets/testimonial/index.php:43 widgets/testimonial/index.php:46
+msgid "Slide Name"
+msgstr ""
+
+#: widgets/imageslider/index.php:52 widgets/service/index.php:60
+#: widgets/testimonial/index.php:79
+msgid "Image"
+msgstr ""
+
+#: widgets/imageslider/index.php:62 widgets/service/index.php:70
+#: widgets/testimonial/index.php:89
+msgid "Image Link (optional)"
+msgstr ""
+
+#: widgets/imageslider/index.php:71
+msgid "Image Text"
+msgstr ""
+
+#: widgets/imageslider/index.php:96 widgets/testimonial/index.php:114
+msgid "Settings"
+msgstr ""
+
+#: widgets/imageslider/index.php:103 widgets/testimonial/index.php:121
+msgid "Speed (ms)"
+msgstr ""
+
+#: widgets/imageslider/index.php:106 widgets/testimonial/index.php:124
+msgid "2000"
+msgstr ""
+
+#: widgets/imageslider/index.php:112 widgets/testimonial/index.php:130
+msgid "Auto Start"
+msgstr ""
+
+#: widgets/imageslider/index.php:116 widgets/imageslider/index.php:129
+#: widgets/testimonial/index.php:134 widgets/testimonial/index.php:147
+msgid "True"
+msgstr ""
+
+#: widgets/imageslider/index.php:117 widgets/imageslider/index.php:130
+#: widgets/testimonial/index.php:135 widgets/testimonial/index.php:148
+msgid "Fasle"
+msgstr ""
+
+#: widgets/imageslider/index.php:125 widgets/testimonial/index.php:143
+msgid "Pause on Hover"
+msgstr ""
+
+#: widgets/imageslider/index.php:148 widgets/testimonial/index.php:257
+msgid "Pagination Dots Color"
+msgstr ""
+
+#: widgets/imageslider/index.php:158 widgets/testimonial/index.php:267
+msgid "Active Pagination Dot Color"
+msgstr ""
+
+#: widgets/imageslider/index.php:169
+msgid "Image Text Color"
+msgstr ""
+
+#: widgets/imageslider/index.php:180
+msgid "Image Text Typography"
+msgstr ""
+
+#: widgets/milestone/index.php:20
+msgid "Milestone Bar"
+msgstr ""
+
+#: widgets/milestone/index.php:43 widgets/milestone/index.php:46
+#: widgets/milestone/index.php:65
+msgid "Milestone Content"
+msgstr ""
+
+#: widgets/milestone/index.php:52
+msgid "Number"
+msgstr ""
+
+#: widgets/milestone/index.php:54
+msgid "35k"
+msgstr ""
+
+#: widgets/milestone/index.php:84
+msgid "Number Color"
+msgstr ""
+
+#: widgets/milestone/index.php:96 widgets/skill/index.php:114
+#: widgets/verticalskill/index.php:114
+msgid "Number Typography"
+msgstr ""
+
+#: widgets/milestone/index.php:103
+msgid "Content Color"
+msgstr ""
+
+#: widgets/milestone/index.php:114 widgets/testimonial/index.php:204
+#: widgets/timeline/index.php:95
+msgid "Content Typography"
+msgstr ""
+
+#: widgets/milestone/index.php:121
+msgid "Separator Background"
+msgstr ""
+
+#: widgets/portfolio/index.php:20
+msgid "Portfolio"
+msgstr ""
+
+#: widgets/portfolio/index.php:41
+msgid "Number of items before laod more"
+msgstr ""
+
+#: widgets/portfolio/index.php:44
+msgid "5"
+msgstr ""
+
+#: widgets/portfolio/index.php:50
+msgid "Show Filter"
+msgstr ""
+
+#: widgets/portfolio/index.php:54
+msgid "Yes"
+msgstr ""
+
+#: widgets/portfolio/index.php:55
+msgid "No"
+msgstr ""
+
+#: widgets/portfolio/index.php:63
+msgid "\"All\" text in the Filter"
+msgstr ""
+
+#: widgets/portfolio/index.php:66
+msgid "All"
+msgstr ""
+
+#: widgets/portfolio/index.php:72
+msgid "Item border radius"
+msgstr ""
+
+#: widgets/portfolio/index.php:84
+msgid "Space between items"
+msgstr ""
+
+#: widgets/portfolio/index.php:121 widgets/team/index.php:66
+#: widgets/video-pop/index.php:89
+msgid "Overlay color"
+msgstr ""
+
+#: widgets/portfolio/index.php:131 widgets/team/index.php:76
+msgid "Overlay Border Width"
+msgstr ""
+
+#: widgets/portfolio/index.php:157 widgets/team/index.php:102
+msgid "Overlay Border Position"
+msgstr ""
+
+#: widgets/portfolio/index.php:183 widgets/team/index.php:128
+msgid "Overlay border color"
+msgstr ""
+
+#: widgets/portfolio/index.php:193
+msgid "Overlay border radius"
+msgstr ""
+
+#: widgets/portfolio/index.php:204 widgets/skill/index.php:85
+#: widgets/team/index.php:138 widgets/verticalskill/index.php:85
+msgid "Title color"
+msgstr ""
+
+#: widgets/portfolio/index.php:215 widgets/service/index.php:99
+#: widgets/skill/index.php:96 widgets/team/index.php:149
+#: widgets/verticalskill/index.php:96
+msgid "Title Typography"
+msgstr ""
+
+#: widgets/portfolio/index.php:222
+msgid "Sub Title color"
+msgstr ""
+
+#: widgets/portfolio/index.php:233
+msgid "Sub Title Typography"
+msgstr ""
+
+#: widgets/portfolio/index.php:243
+msgid "Load More Button"
+msgstr ""
+
+#: widgets/portfolio/index.php:251
+msgid "Load more width"
+msgstr ""
+
+#: widgets/portfolio/index.php:285
+msgid "Load More Border Radius"
+msgstr ""
+
+#: widgets/portfolio/index.php:296
+msgid "Load more margin top"
+msgstr ""
+
+#: widgets/portfolio/index.php:322
+msgid "Load More Background"
+msgstr ""
+
+#: widgets/portfolio/index.php:334
+msgid "Load More Image"
+msgstr ""
+
+#: widgets/portfolio/index.php:345
+msgid "Load more image space"
+msgstr ""
+
+#: widgets/portfolio/index.php:373
+msgid "Load More Image Width"
+msgstr ""
+
+#: widgets/portfolio/index.php:410
+msgid "Text for \"load more\" instead of image"
+msgstr ""
+
+#: widgets/portfolio/index.php:419
+msgid "Text for \"Loading\" instead of image"
+msgstr ""
+
+#: widgets/portfolio/index.php:428
+msgid "Text for \"No more\" instead of image"
+msgstr ""
+
+#: widgets/portfolio/index.php:437
+msgid "Load more text color"
+msgstr ""
+
+#: widgets/portfolio/index.php:448
+msgid "Load More Typography"
+msgstr ""
+
+#: widgets/portfolio/index.php:455
+msgid "Load More Border Width"
+msgstr ""
+
+#: widgets/portfolio/index.php:483
+msgid "Load more text button height"
+msgstr ""
+
+#: widgets/portfolio/index.php:513
+msgid "Portfolio Go Back Button"
+msgstr ""
+
+#: widgets/portfolio/index.php:520
+msgid "Portfolio \"Go Back\" background color"
+msgstr ""
+
+#: widgets/portfolio/index.php:530
+msgid "Portfolio \"Go Back\" radius"
+msgstr ""
+
+#: widgets/portfolio/index.php:541
+msgid "Portfolio \"Go Back\" image"
+msgstr ""
+
+#: widgets/portfolio/index.php:552
+msgid "Portfolio \"Go Back\" image size"
+msgstr ""
+
+#: widgets/portfolio/index.php:580
+msgid "Filter / Category"
+msgstr ""
+
+#: widgets/portfolio/index.php:587
+msgid "Category background color"
+msgstr ""
+
+#: widgets/portfolio/index.php:597
+msgid "Category active background color"
+msgstr ""
+
+#: widgets/portfolio/index.php:608
+msgid "Category color"
+msgstr ""
+
+#: widgets/portfolio/index.php:619
+msgid "Category Typography"
+msgstr ""
+
+#: widgets/service/index.php:20
+msgid "Service"
+msgstr ""
+
+#: widgets/service/index.php:42 widgets/service/index.php:45
+msgid "Title"
+msgstr ""
+
+#: widgets/service/index.php:51 widgets/service/index.php:54
+msgid "Description"
+msgstr ""
+
+#: widgets/service/index.php:88
+msgid "Title Color"
+msgstr ""
+
+#: widgets/service/index.php:106
+msgid "Description Color"
+msgstr ""
+
+#: widgets/service/index.php:117
+msgid "Description Typography"
+msgstr ""
+
+#: widgets/skill/index.php:20
+msgid "Skill Bar"
+msgstr ""
+
+#: widgets/skill/index.php:43 widgets/verticalskill/index.php:43
+msgid "Skill"
+msgstr ""
+
+#: widgets/skill/index.php:46 widgets/skill/index.php:67
+#: widgets/verticalskill/index.php:46 widgets/verticalskill/index.php:67
+msgid "Design"
+msgstr ""
+
+#: widgets/skill/index.php:52 widgets/verticalskill/index.php:52
+msgid "Percentage"
+msgstr ""
+
+#: widgets/skill/index.php:103 widgets/verticalskill/index.php:103
+msgid "Number color"
+msgstr ""
+
+#: widgets/skill/index.php:121 widgets/verticalskill/index.php:121
+msgid "Fill color"
+msgstr ""
+
+#: widgets/skill/index.php:131
+msgid "Fill height"
+msgstr ""
+
+#: widgets/skill/index.php:157 widgets/verticalskill/index.php:131
+msgid "Fill background color"
+msgstr ""
+
+#: widgets/team/index.php:20
+msgid "Team"
+msgstr ""
+
+#: widgets/team/index.php:41
+msgid "Number of items in row"
+msgstr ""
+
+#: widgets/team/index.php:46
+msgid "2"
+msgstr ""
+
+#: widgets/team/index.php:47
+msgid "3"
+msgstr ""
+
+#: widgets/team/index.php:48
+msgid "4"
+msgstr ""
+
+#: widgets/team/index.php:156 widgets/testimonial/index.php:229
+msgid "Position color"
+msgstr ""
+
+#: widgets/team/index.php:167 widgets/testimonial/index.php:240
+msgid "Position Typography"
+msgstr ""
+
+#: widgets/testimonial/index.php:20
+msgid "Testimonial"
+msgstr ""
+
+#: widgets/testimonial/index.php:52 widgets/testimonial/index.php:55
+msgid "Name"
+msgstr ""
+
+#: widgets/testimonial/index.php:61 widgets/testimonial/index.php:64
+msgid "Position"
+msgstr ""
+
+#: widgets/testimonial/index.php:167
+msgid "Image Width"
+msgstr ""
+
+#: widgets/testimonial/index.php:193 widgets/timeline/index.php:84
+msgid "Content color"
+msgstr ""
+
+#: widgets/testimonial/index.php:211
+msgid "Name color"
+msgstr ""
+
+#: widgets/testimonial/index.php:222
+msgid "Name Typography"
+msgstr ""
+
+#: widgets/testimonial/index.php:247
+msgid "Quote color"
+msgstr ""
+
+#: widgets/timeline/index.php:20
+msgid "Timeline"
+msgstr ""
+
+#: widgets/timeline/index.php:43 widgets/timeline/index.php:46
+#: widgets/timeline/index.php:65
+msgid "Timeline Content"
+msgstr ""
+
+#: widgets/timeline/index.php:52
+msgid "Year"
+msgstr ""
+
+#: widgets/timeline/index.php:54
+msgid "2019"
+msgstr ""
+
+#: widgets/timeline/index.php:102
+msgid "Year color"
+msgstr ""
+
+#: widgets/timeline/index.php:113
+msgid "Year Typography"
+msgstr ""
+
+#: widgets/timeline/index.php:120
+msgid "Circle color"
+msgstr ""
+
+#: widgets/verticalskill/index.php:20
+msgid "Verical Skill"
+msgstr ""
+
+#: widgets/verticalskill/index.php:153
+msgid "Skills height"
+msgstr ""
+
+#: widgets/verticalskill/index.php:179
+msgid "Skills width"
+msgstr ""
+
+#: widgets/verticalskill/index.php:206
+msgid "Space between skills"
+msgstr ""
+
+#: widgets/video-pop/index.php:20
+msgid "Video Popup"
+msgstr ""
+
+#: widgets/video-pop/index.php:41
+msgid "Unique Name"
+msgstr ""
+
+#: widgets/video-pop/index.php:44
+msgid "video1"
+msgstr ""
+
+#: widgets/video-pop/index.php:50
+msgid "Video url (YouTube or Vimeo)"
+msgstr ""
+
+#: widgets/video-pop/index.php:58
+msgid "Placeholder image"
+msgstr ""
+
+#: widgets/video-pop/index.php:69
+msgid "Play image"
+msgstr ""
+
+#: widgets/video-pop/index.php:99
+msgid "Play image size"
+msgstr ""
+
+#: widgets/video-pop/index.php:125
+msgid "Play image opacity"
+msgstr ""
+
+#: widgets/video-pop/index.php:128
+msgid "Set range 0 - 1"
+msgstr ""
+
+#: widgets/video-pop/index.php:137
+msgid "Image Border Radius"
+msgstr ""
+
+#: widgets/video-pop/view.php:12
+msgid "Play"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "CocoBasic - Cardea Elementor Widgets"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Custom Elementor Widgets used in Cardea WordPress Theme."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.cocobasic.com"
+msgstr ""

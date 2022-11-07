@@ -1,0 +1,11 @@
+<wpml-config>
+	<admin-texts>		
+		<key name="theme_mods_cardea-wp">
+			<key name="cardea_footer_mail"/>			
+			<key name="cardea_footer_tel"/>			
+			<key name="cardea_footer_info_content"/>			
+			<key name="cardea_footer_social_content"/>			
+			<key name="cardea_footer_copyright_content"/>			
+		</key>
+	</admin-texts>
+</wpml-config>

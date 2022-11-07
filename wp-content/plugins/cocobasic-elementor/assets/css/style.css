@@ -1,0 +1,19 @@
+.grid-item {
+    position: relative;
+}
+
+.header-holder {
+    position: initial !important;
+}
+
+.section {
+	width: 100%;
+}
+
+@media (min-width: 1360px) {
+
+    .side-menu-layout .header-holder {
+        position: fixed !important;
+    }
+
+}
